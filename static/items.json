@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "title": "상품1",
+      "content": "상품1 내용내용내용",
+      "imgUrl": "https://media.graphcms.com/UImRtXh2RS6MbtM0EOuX"
+    },
+    {
+      "id": 1,
+      "title": "상품2",
+      "content": "상품2 내용내용내용",
+      "imgUrl": "https://media.graphcms.com/Ru4hikn9TCmoEiLmgMiW"
+    },
+    {
+      "id": 2,
+      "title": "상품3",
+      "content": "상품3 내용내용내용",
+      "imgUrl": "https://media.graphcms.com/RJ8WeqSXRpu5I5k7s1vB"
+    },
+    {
+      "id": 3,
+      "title": "상품4",
+      "content": "상품4 내용내용내용",
+      "imgUrl": "https://media.graphcms.com/lygTlv9rStuNNzWKHusc"
+    },
+    {
+      "id": 4,
+      "title": "상품5",
+      "content": "상품5 내용내용내용",
+      "imgUrl": "https://media.graphcms.com/WtfPupUUSMCAswRwyXMC"
+    },
+    {
+      "id": 5,
+      "title": "상품6",
+      "content": "상품6 내용내용내용",
+      "imgUrl": "https://media.graphcms.com/fgjS3T88RuaBdX7J5MpK"
+    },
+    {
+      "id": 6,
+      "title": "상품7",
+      "content": "상품7 내용내용내용",
+      "imgUrl": "https://media.graphcms.com/As0R1RgnSDWSpSvn2HyX"
+    }
+  ]
+}
